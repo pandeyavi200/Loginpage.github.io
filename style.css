@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    margin: 30px 20px;
+    display: flex;
+    flex-direction: row;
+    background-color: azure; 
+    height: 600px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 10px 10px grey;
+}
+.left{
+    width: 50%;
+    height: 100%;
+    background-color: aqua;
+}
+h3{
+    margin: 30px 300px;
+    font-weight: 900;
+    font-size: 25px;
+}
+.head{
+    color: white;
+    margin: 40px 150px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    }
+
+p{
+    margin: 60px 60px ;
+    margin-left: 100px;
+    color: white;
+    font-size: 20px;
+}
+span{
+     
+     padding-bottom: 10px;
+     border-bottom: 3px solid aqua;
+     line-height: 48px;
+     
+}
+#know{
+   background-color: aqua;
+   color: white;
+    margin: auto;
+    margin-left: 100px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+#left{
+    padding-bottom: 10px;
+    border-bottom: 3px solid white;
+    line-height: 48px;
+}
+.right{
+    background-color: white;
+}
+.body{
+    width: 50%;
+    height: 80%;
+    
+    margin: auto;
+}
+.field{
+    margin: 20px 40px;
+    
+}
+input{
+    width: 250px;
+    height: 35px;
+    border-radius: 10px;
+    border: hidden;
+    box-shadow:  1px 2px 1px grey;
+}
+h4{
+   margin-left: 60px;
+   font-size: 17px;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+button{
+    width: 200px;
+    margin-left: 60px;
+    height: 35px;
+    border-radius: 15px;
+    margin-top: 10px;
+    background-color: aqua;
+}
+.l{
+    width: 80px;
+    height: 60px;
+    border: 1px solid black;
+    margin-left: 55px;
+    border-bottom: white;
+    border-left: white;
+    border-right: white;
+    margin-right: 20px;
+
+}
+.r{
+    width: 80px;
+    height: 60px;
+    border: 1px solid black;
+    margin-left: 20px;
+    border-bottom: white;
+    border-left: white;
+    border-right: white;
+    margin-right: 20px;
+}
+.line{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+
+}
+#img1{
+margin-top: 15px;
+margin-left: 50px;
+}
+#img2{
+    width: 45px;
+    margin-top: 17px;
+    margin-left: -10px;
+}
+    
+.circle1{
+    width: 100px;
+    height: 100px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-left: 600px;
+    margin-top: 52px;   
+    background-color: white; 
+}
+.circle{
+    width: 70px;
+    height: 70px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-left: 13px;
+    margin-top: 13px;   
+    background-color: aqua; 
+}
+
+.rect{
+    width: 50px;
+    height: 50px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;   
+    background-color: white; 
+    
+}
+.rect1{
+    width: 75px;
+    height: 75px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-left: -40px;
+    margin-top: 52px;   
+    background-color: rgb(165, 158, 158); 
+    transform: rotate(45deg);
+    
+    
+}
+    
+
